@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: helloweb
-  namespace: team1
+  namespace: bfogel-demo
   labels:
     app: hello
 spec:
